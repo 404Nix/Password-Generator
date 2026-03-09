@@ -72,11 +72,3 @@ This project is open-source and available under the MIT License.
 
 
 ---
-
-💡 **Tip for your LinkedIn post:**
-When you upload this project, include:
-- **UI screenshot**
-- **Code screenshot**
-- **GitHub repo link**
-
-```
