@@ -56,7 +56,16 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/password-generator.git
 
+Go into the project folder:
+    cd password-generator
 
+Install dependencies:
+    npm install
+    
+Run the development server:
+    npm run dev
+
+```
 📜 License
 
 This project is open-source and available under the MIT License.
