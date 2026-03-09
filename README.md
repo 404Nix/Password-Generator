@@ -61,7 +61,7 @@ Go into the project folder:
 
 Install dependencies:
     npm install
-    
+
 Run the development server:
     npm run dev
 
@@ -79,5 +79,4 @@ When you upload this project, include:
 - **Code screenshot**
 - **GitHub repo link**
 
-If you want, I can also show you how to make your **GitHub README look 10× more attractive** (with badges, preview images, and sections like a professional open-source repo).
 ```
